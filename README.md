@@ -14,6 +14,7 @@ presentation
 
 ###### Integral Mycology
 
+* TODO: build local presentation with reveal.js
 
 #### Classes
 
