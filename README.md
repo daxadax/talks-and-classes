@@ -4,17 +4,16 @@
 
 ###### Psychedelics and Language
 
-todo: 
-* chop up all mckenna audio and store it so it's accessible to the
+* TODO: chop up all mckenna audio and store it so it's accessible to the
 presentation
 
 ###### Psychedelics Oblige
 
-todo: 
+* TODO: pull videos and quotes from online presentation
+* TODO: build local presentation with reveal.js
 
 ###### Integral Mycology
 
-todo: 
 
 #### Classes
 
