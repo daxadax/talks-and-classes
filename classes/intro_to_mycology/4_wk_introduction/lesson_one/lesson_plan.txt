@@ -2,8 +2,9 @@ Lesson One
 
 Goals for this lesson: 
 
+  * Get to know each other!
   * Basic understanding of mushroom lifecycle
-  * Primary/Secondary decomposers vs Mychorrhizal Fungi
+  * Decomposers vs Mychorrhizal Fungi
   * Define our focus: home-scale cultivation
   * 5 W's regarding home cultivation
   * Basic understanding of fungal needs and the cultivator's role
@@ -13,6 +14,15 @@ Goals for this lesson:
 I. Introduction
   A. Who am i?
   B. Who are you?
+  C. Goals for this course
+    1. Learn primary skills to build on
+    2. Hands-on practice
+    3. What can I do when this course is done?
+      a. understand fungal needs
+      b. clone mushroom tissue and grow it out
+      c. have the resources and understanding to keep going
+  D. Goals for this lesson
+    1-8. see above
 II. Mushroom Life Cycle
   A. [IMAGE] fungi life cycle - EGCM, pg 18
   B. Description of Basidiomycota life cycle (RMyc, pgs 9-10)
@@ -69,13 +79,39 @@ V. Fungal Needs and the Cultivator's Role
     3. Fungi need to breath
     4. Fungi need warmth
     5. Mushrooms need a proper fruiting surface
-  B. Phases of Cultivation
-    1. EGCM, pg 18
-    2. "Phases of Cultivation" (RMyc, pgs 201-202)
-      a. Phase 1: Agar and Liquid Inoculum
-      b. Phase 2: Grain Spawn
-      c. Phase 3: Preparing and Inoculating Fruiting Substrate
-      d. Phase 4: Fruiting
+  B. Phases of Cultivation (RMyc, pgs 201-202)
+    1. Preface: the toolbelt approach
+      a. no right way
+      b. each method offers new options
+      c. find what works for you
+      d. it's okay to nerd out and it's okay not to
+      e. expect failure and learn from it (journal!)
+      f. prioritize results
+    2. Phase 1: Agar and Liquid Inoculum
+      a. Starting point
+        i. when there is tissue to clone or spores to germinate
+      b. “The first step toward growing fruit bodies is to obtain a healthy and
+      competitor-free culture of mycelium” (RMyc, pg 228)
+      c. "Expanding the mass...is the primary goal" (EGCM, pg 18)
+      d. Options
+        i. spores, live mycelium, dry mushrooms
+        ii. agar, liquid inoculum, cardboard
+      e. Senescence and keeping it interesting (RMyc, pg 205)
+    3. Phase 2: Grain Spawn
+      a. Starting point
+        i. agar: when surface is 80-90% colonized
+        ii. liquid inoculum: when viable mycelium can be extracted (1-2 weeks)
+      b. “Grains provide a cheap, nutrient dense substrate for mycelium to
+      rapidly grow on” (Radical Mycology)
+      c. Preparation
+        i. Goldilocks zone (RMyc, pg 247)
+        ii. Soak and then sterilize
+      d. Options
+        i. rye, wheat, millet, popcorn, birdseed
+        ii. agar, liquid inoculum
+        iii. to shake or not to shake?
+    4. Phase 3: Preparing and Inoculating Fruiting Substrate
+    5. Phase 4: Fruiting
   C. "Preparing the Landing Zone" - Sanitation
     1. EGCM, pg 44
     2. The cultivator is best when s/he is simply a facilitator
