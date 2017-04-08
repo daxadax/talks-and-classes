@@ -123,27 +123,26 @@ V. Fungal Needs and the Cultivator's Role
     5. Phase 4: Fruiting
       a. Starting point
         i. When the casing layer is evenly myceliated but not overlayed
-        ii. When primordian begin to form
+        ii. When primordium begin to form
       b. This topics is another whole course by itself
       c. Pinning triggers
         i. Increase in humidity
         ii. Decrease in CO2/Increase in O2 (FAE)
         iii. Decrease in temperature
         iv. Increase in ambient light
-      d. The PF Tek
-        i. simple method to reliably produce small amounts of mushrooms
-        ii. great for experimenting!
-  C. "Preparing the Landing Zone" - Sanitation
-    1. EGCM, pg 44
-    2. The cultivator is best when s/he is simply a facilitator
-      a. The mycelium knows what to do
-      b. Setup the environment as best you can with minimal interference
+    6. Putting it all together: The PF Tek
+      a. simple method to reliably produce small amounts of mushrooms
+      b. great for experimenting!
+      c. we'll come back to this later in the course
+      d. left as an exercise to become familiar with the process
 
 WORKSHOP:
 
 I. Safe PC Usage
 II. Introduction to Agar Jars
   A. What they are - explanation of the pieces
+    i. the jar: short and fat
+    ii. the lid: SSIP & polyfil respiration hole
   B. Why we should use them
   C. Alternative to plates
 III. [ACTIVITY] Build Agar Jars
