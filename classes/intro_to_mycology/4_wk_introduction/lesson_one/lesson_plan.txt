@@ -141,8 +141,10 @@ WORKSHOP:
 I. Safe PC Usage
 II. Introduction to Agar Jars
   A. What they are - explanation of the pieces
-    i. the jar: short and fat
+    i. the jar: short and wide
     ii. the lid: SSIP & polyfil respiration hole
   B. Why we should use them
-  C. Alternative to plates
+    i. a traveling mini-sterile zone
+    ii. benefits of agar without high contamination rates
+    iii. easy to make, easy to use, easy to discard
 III. [ACTIVITY] Build Agar Jars
