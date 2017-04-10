@@ -1,10 +1,42 @@
 Lesson Two
 
+Required equipment:
+
+  * Materials to make Agar
+  * Hot plate/Heat source
+  * Drill(s)
+  * Example Spawn Jars
+
 Goals for this this lesson:
 
+  * 
+  *
 
-  C. "Preparing the Landing Zone" - Sanitation
+I. Introduction
+  ~. Goals for this lesson
+II. Agar
+
+III. Sanitation
+  A. "Preparing the Landing Zone" - Sanitation
     1. EGCM, pg 44
     2. The cultivator is best when s/he is simply a facilitator
       a. The mycelium knows what to do
       b. Setup the environment as best you can with minimal interference
+
+IV. Contamination
+
+
+WORKSHOP:
+
+I. Simple Agar Recipes
+II. Preparing and Pouring Agar in theory
+III [ACTIVITY] Preparing and Pouring Agar in practice
+II. Introduction to Spawn Jars
+  A. What they are - explanation of the pieces
+    i. the jar: big, ideally flat sides
+    ii. the lid: SSIP & polyfil respiration hole
+  B. Why we should use them
+    i. a traveling mini-sterile zone
+    ii. 
+    iii. 
+III. [ACTIVITY] Build Spawn Jars
