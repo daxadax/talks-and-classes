@@ -160,12 +160,22 @@ V. Fungal Needs and the Cultivator's Role
 WORKSHOP:
 
 I. Safe PC Usage
+  A. The basics - RTFM
+    1. Keep it clean
+    2. Check that everything is as it should be
+    3. Use enough Water
+    4. Don't open it early
+    5. Don't use it if something isn't right
+  B. Secondary concerns
+    1. Don't Get Burnt
+    2. Don't Get Cut
+    3. Bend With Your Knees
 II. Introduction to Agar Jars
   A. What they are - explanation of the pieces
-    i. the jar: short and wide
-    ii. the lid: SSIP & polyfil respiration hole
+    1. The Jar: short and wide
+    2. The Lid: SSIP & polyfil respiration hole
   B. Why we should use them
-    i. a traveling mini-sterile zone
-    ii. benefits of agar without high contamination rates
-    iii. easy to make, easy to use, easy to discard
+    1. A Traveling Sterile Zone
+    2. Benefits of Agar without High Contamination Rates
+    3. Easy to Make, Easy to Use, Easy to Discard
 III. [ACTIVITY] Build Agar Jars
