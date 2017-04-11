@@ -3,3 +3,5 @@ Things left out of introduction / fodder for new courses
 * Working with Spores vs Mycelium (RMyc, pg 232)
   * Strain selection (RMyc, pg 234)
 * More in-depth discussion/work with agar vs liquid culture
+* Gloveboxes
+* Incubators
