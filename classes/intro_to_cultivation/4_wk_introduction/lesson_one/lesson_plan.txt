@@ -22,7 +22,8 @@ I. Introduction
   B. Who are you?
   C. Goals for this course
     1. Learn primary skills to build on
-    2. Hands-on practice
+    2. Hands-on practice backed with theory
+      a. understanding the 'why' allows you to innovate
     3. What can I do when this course is done?
       a. understand fungal needs
       b. clone mushroom tissue and grow it out
@@ -34,7 +35,21 @@ II. Mushroom Life Cycle
   B. Description of Basidiomycota life cycle (RMyc, pgs 9-10)
   C. Ecological Roles
     1. "The Role of Fungi as Decomposers" (RMyc, pg 38)
+      a. Fungi provide 96% of the C02 needed by the world’s plants
+      b. Much comes from wood, which only fungi can decompose
+      c. Critical to the survival of habitats
+        i. New elements cannot be created, they must be recycled
+        ii. Fungi create soluble forms of nutrients that plants 
+        would otherwise not be able to access
     2. "Benefits of the Mycorrhizal Relationship" (RMyc, pg 29)
+      a. Expands the absorptive area of the plants roots 10-1000x
+        i. Growth rate ++
+        ii. Survival time of roots ++
+        iii. Nutritional content ++
+        iv. Medicinal quality ++
+        v. Flowering rate ++
+        vi. Time to reach maturity --
+      b. Fungi produce digestive enzymes which unlock nutrients
 III. 5W's of Home Cultivation
   A. Who can cultivate mushrooms at home?
     1. Anyone! 
