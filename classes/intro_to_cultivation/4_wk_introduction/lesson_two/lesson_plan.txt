@@ -63,18 +63,23 @@ II. Agar
       b. spores, live mycelium, dry mushrooms
       c. agar, liquid inoculum, cardboard
 IV. Contamination
-  A. Know your enemies
-    1. Mushrooms can do the fighting, you can be a pacifist
-      a. Learning to identify competitors is enough
+  A. Keep your friends close...
+    1. Healthy mycelium
+      a. where and when to look for it
+      b. [IMAGES] identification
+  B. ...and your enemies closer
+    1. On the cultivator's role
+      a. Learn to identify competitors
       b. Isolate contaminated projects
-      c. Dispose of them properly
-    1. Mold and other Fungi
+      c. Dispose of contaminated projects properly
+      d. Don't try to fight, it only makes it worse
+    2. Mold and other Fungi
       a. where and when to look for it
       b. [IMAGES] identification
-    2. Bacteria
+    3. Bacteria
       a. where and when to look for it
       b. [IMAGES] identification
-    3. Viruses
+    4. Viruses
       a. where and when to look for it
       b. how to recognize it
   B. The 8 Causes of Contamination (RMyc, pgs 208-209)
@@ -101,20 +106,24 @@ III. Sanitation
       b. Setup the environment as best you can with minimal interference
   C. Yin and Yang
     1. Do what you must to find balance
-    2. Stop there
+    2. Stop there - it's possible and easy to go too far
 V. Unknown Unknowns - What we're not covering
   A. The little known poetry of Donald Rumsfeld
   B. Gloveboxes - minimize contact
     1. Why didn't we cover this? 
+    2. Why you might want to research it yourself
   C. Liquid Cultures - more mushrooms faster
     1. Why didn't we cover this?
       a. agar is more versitile
       b. easier to see the results
       c. possible to clean
+    2. Why you might want to research it yourself
   D. Agar Plates - more contact vs. more room to experiment
     1. Why didn't we cover this?
+    2. Why you might want to research it yourself
   E. Incubators - faster, stronger mycelium
     1. Why didn't we cover this?
+    2. Why you might want to research it yourself
 
 WORKSHOP:
 
