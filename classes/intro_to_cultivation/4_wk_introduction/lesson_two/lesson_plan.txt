@@ -6,30 +6,123 @@ Required equipment:
   * Hot plate/Heat source
   * Drill(s)
   * Example Spawn Jars
+  * Example fungal contamination
+  * Example bacterial contamination
 
 Goals for this this lesson:
 
-  * 
-  *
+  * Review last week's main points
+  * The basics of working with agar
+  * Understand nutritional requirements of mycelium
+  * A deeper look at 'Phase 1' of cultivation
+  * Contamination and Santitation
+  * Unknown unknowns - gloveboxes, agar plates, etc...
+  * How to prepare and pour agar
 
 I. Introduction
-  ~. Goals for this lesson
+  A. Review
+    1. Mushroom Life Cycle
+    2. Fungal Needs
+    3. Safe PC Usage
+    4. Filter Jars
+  B. Goals for this lesson
+    1-7. see above
 II. Agar
-
+  A. What is Agar?
+    1. Summary (RMyc, pg 229)
+  B. Working with Agar: The Basics
+    1. Why use Agar? (RMyc, pg 229)
+      a. Cleanup mushroom tissue
+      b. Isolate and develop individual mycelium strains
+      c. Facilitate the responses of mycelium to various other entities
+    2. Media Formulation
+      a. components
+        i. Carbon
+        ii. Proteins 
+        iii. B Vitamins
+        iv. Minerals
+        v. A taste of what's to come
+      b. the importance of a rotating menu
+    3. Preparing and Sterilizing Agar
+      a. ???
+    4. Dealing with contamination (RMyc, pg 240)
+      a. it grows everything - that's the point
+      b. Transfer myc to a new plate
+      c. Cover the whole thing with hot agar
+      d. Wait it out
+      e. Make a few 'blanks' to identify weak spots in your process
+  C. Nutritional requirements of mycelium (RMyc, pg 216)
+    1. ???
+  D. A Deeper Look at Phase One
+    1. Starting point
+      a. when there is tissue to clone or spores to germinate
+    2. “The first step toward growing fruit bodies is to obtain a healthy and
+    competitor-free culture of mycelium” (RMyc, pg 228)
+    3. "Expanding the mass...is the primary goal" (EGCM, pg 18)
+    4. Options
+      b. spores, live mycelium, dry mushrooms
+      c. agar, liquid inoculum, cardboard
+IV. Contamination
+  A. Know your enemies
+    1. Mushrooms can do the fighting, you can be a pacifist
+      a. Learning to identify competitors is enough
+      b. Isolate contaminated projects
+      c. Dispose of them properly
+    1. Mold and other Fungi
+      a. where and when to look for it
+      b. [IMAGES] identification
+    2. Bacteria
+      a. where and when to look for it
+      b. [IMAGES] identification
+    3. Viruses
+      a. where and when to look for it
+      b. how to recognize it
+  B. The 8 Causes of Contamination (RMyc, pgs 208-209)
+    1. The Cultivator
+    2. The Air
+    3. The Environment
+    4. The Substrate
+    5. The Inoculum
+    6. The Tools
+    7. Pests
+    8. Technique (the disciple of do easy)
+  C. Be a Contamophobe (EGCM, pg 48)
 III. Sanitation
-  A. "Preparing the Landing Zone" - Sanitation
-    1. EGCM, pg 44
+  A. 'Work Smarter, Not Harder'
+    1. Sanitation is hard
+    2. Find every trick you can to make it unnecessary
+      a. Agar jars, for example
+      b. minimize non-sterile contact
+      c. develop stronger strains
+  B. "Preparing the Landing Zone" - Sanitation
+    1. Cleaning, Habit and Ritual - EGCM, pg 44
     2. The cultivator is best when s/he is simply a facilitator
       a. The mycelium knows what to do
       b. Setup the environment as best you can with minimal interference
-
-IV. Contamination
-
+  C. Yin and Yang
+    1. Do what you must to find balance
+    2. Stop there
+V. Unknown Unknowns - What we're not covering
+  A. The little known poetry of Donald Rumsfeld
+  B. Gloveboxes - minimize contact
+    1. Why didn't we cover this? 
+  C. Liquid Cultures - more mushrooms faster
+    1. Why didn't we cover this?
+      a. agar is more versitile
+      b. easier to see the results
+      c. possible to clean
+  D. Agar Plates - more contact vs. more room to experiment
+    1. Why didn't we cover this?
+  E. Incubators - faster, stronger mycelium
+    1. Why didn't we cover this?
 
 WORKSHOP:
 
 I. Simple Agar Recipes
+  A. ???
+  B. ???
 II. Preparing and Pouring Agar in theory
+  A. ???
 III [ACTIVITY] Preparing and Pouring Agar in practice
 II. Introduction to Spawn Jars
   A. What they are - explanation of the pieces
