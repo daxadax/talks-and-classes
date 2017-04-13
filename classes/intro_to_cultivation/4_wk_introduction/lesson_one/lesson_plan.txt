@@ -54,11 +54,14 @@ III. 5W's of Home Cultivation
   A. Who can cultivate mushrooms at home?
     1. Anyone! 
     2. Invest various amounts of time, money and interest
-  B. What is the goal here?  What can I learn?
-    1. Home-scale cultivation (but that's still broad!)
-    2. How to clone a mushroom (any mushroom - forest or market)
-    3. Build up mycelium in a controlled environment
-    4. Resources about where to learn more
+  B. What Mushrooms
+    1. Usually only decomposers will fruit
+    2. "It depends"
+      a. what do you want to grow?
+      b. why do you want to grow it? (mycelium vs fruit)
+      c. has it been done before?
+      d. what sort of environment does it need?
+      e. how much money have you got? / do you like DIY?
   C. When can mushrooms be cultivated?
     1. Anytime!
     2. Seasonal changes can be used to focus on different species
@@ -160,7 +163,7 @@ V. Fungal Needs and the Cultivator's Role
 WORKSHOP:
 
 I. Safe PC Usage
-  A. The basics - RTFM
+  A. The basics - RTM
     1. Keep it clean
     2. Check that everything is as it should be
     3. Use enough Water
