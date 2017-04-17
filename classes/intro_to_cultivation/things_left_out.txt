@@ -5,3 +5,34 @@ Things left out of introduction / fodder for new courses
 * More in-depth discussion/work with agar vs liquid culture
 * Gloveboxes
 * Incubators
+* Nutrional Requirements (notes below)
+
+--- # Notes for nutritional requirements
+Nutritional requirements of mycelium (RMyc, pg 216-217)
+  1. Macronutrients
+    a. Carbon (C)
+      i. the 'energy source' for living organisms
+      ii. required for cellular energy and to build cellular structures
+      iii. decomposer fungi obtain much of their carbon from digesting plant matter
+    b. Nitrogen (N)
+      i. the backbone of enzyme (chemical catalyst) production
+      ii. the amount of available Nitrogen is a major limiting factor in cultivation
+      iii. more nitrogen is often added in the form of manure or wheat bran
+      iv. 1-2% of Nitrogen is about right for a substrate
+      v. fruiting requires more nitrogen than the mycelium's vegetative state
+    c. Oxygen (O)
+      i. mushrooms use Oxygen in numerous cellular processes
+  2. Micronutrients
+    a. Phosphorus (K)
+      i. used in the production of ATP, nucleic acids and cell membranes
+    b. Sulfer (S)
+      i. used to make amino acids
+      ii. can provided in the form of vitamins B1 or B7
+    c. Potassium (P)
+      i. critical to fungal metabolism
+      ii. influences the osmotic potential of hyphae (makes them more sneaky)
+    d. Magnesium (Mg)
+      i. influences the energy storage of ATP
+    e. Calcium (Ca)
+      i. regulate cell functions
+      ii. transport sugars and proteins across cell walls
