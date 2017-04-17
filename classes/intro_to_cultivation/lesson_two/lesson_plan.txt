@@ -2,7 +2,7 @@ Lesson Two
 
 Required equipment:
 
-  * Materials to make Agar
+  * Materials to make Agar + solid recipe
   * Hot plate/Heat source
   * Drill(s)
   * Example Spawn Jars
@@ -20,13 +20,13 @@ Goals for this this lesson:
   * How to prepare and pour agar
 
 I. Introduction
-  A. Review
+  A. Goals for this lesson
+    1-7. see above
+  B. Review
     1. Mushroom Life Cycle
     2. Fungal Needs
     3. Safe PC Usage
     4. Filter Jars
-  B. Goals for this lesson
-    1-7. see above
 II. Agar
   A. What is Agar?
     1. Summary (RMyc, pg 229)
@@ -37,22 +37,51 @@ II. Agar
       c. Facilitate the responses of mycelium to various other entities
     2. Media Formulation
       a. components
-        i. Carbon
-        ii. Proteins 
-        iii. B Vitamins
-        iv. Minerals
-        v. A taste of what's to come
-      b. the importance of a rotating menu
+        i. Carbon - dextrose, malt extract, potato water
+        ii. Proteins - cereal flour, peptone
+        iii. B Vitamins - yeast
+        iv. Minerals - gypsum
+        v. A taste of what's to come - 3-5% to stiumulate digestive enzymes
+      b. restricted ingrediants
+        i. coconut, garlic, pomegranate, cinnamon, cloves, curry, cilantro
+      c. the importance of a rotating menu
     3. Preparing and Sterilizing Agar
-      a. ???
+      a. pick a recipe
+      b. heat slowly just to the point of incorporation
+      c. be careful not to caramelize sugars - this is toxic to some fungi
+      a. sterilize @15psi for 30 minutes
     4. Dealing with contamination (RMyc, pg 240)
-      a. it grows everything - that's the point
-      b. Transfer myc to a new plate
-      c. Cover the whole thing with hot agar
-      d. Wait it out
-      e. Make a few 'blanks' to identify weak spots in your process
-  C. Nutritional requirements of mycelium (RMyc, pg 216)
-    1. ???
+      a. agar facilitates growth - that's the point
+      b. contamination isn't a failure, it's part of the process
+      c. more on this later...
+  C. Nutritional requirements of mycelium (RMyc, pg 216-217)
+    1. Macronutrients
+      a. Carbon (C)
+        i. the 'energy source' for living organisms
+        ii. required for cellular energy and to build cellular structures
+        iii. decomposer fungi obtain much of their carbon from digesting plant matter
+      b. Nitrogen (N)
+        i. the backbone of enzyme (chemical catalyst) production
+        ii. the amount of available Nitrogen is a major limiting factor in cultivation
+        iii. more nitrogen is often added in the form of manure or wheat bran
+        iv. 1-2% of Nitrogen is about right for a substrate
+        v. fruiting requires more nitrogen than the mycelium's vegetative state
+      c. Oxygen (O)
+        i. mushrooms use Oxygen in numerous cellular processes
+    2. Micronutrients
+      a. Phosphorus (K)
+        i. used in the production of ATP, nucleic acids and cell membranes
+      b. Sulfer (S)
+        i. used to make amino acids
+        ii. can provided in the form of vitamins B1 or B7
+      c. Potassium (P)
+        i. critical to fungal metabolism
+        ii. influences the osmotic potential of hyphae (makes them more sneaky)
+      d. Magnesium (Mg)
+        i. influences the energy storage of ATP
+      e. Calcium (Ca)
+        i. regulate cell functions
+        ii. transport sugars and proteins across cell walls
   D. A Deeper Look at Phase One
     1. Starting point
       a. when there is tissue to clone or spores to germinate
@@ -62,27 +91,8 @@ II. Agar
     4. Options
       b. spores, live mycelium, dry mushrooms
       c. agar, liquid inoculum, cardboard
-IV. Contamination
-  A. Keep your friends close...
-    1. Healthy mycelium
-      a. where and when to look for it
-      b. [IMAGES] identification
-  B. ...and your enemies closer
-    1. On the cultivator's role
-      a. Learn to identify competitors
-      b. Isolate contaminated projects
-      c. Dispose of contaminated projects properly
-      d. Don't try to fight, it only makes it worse
-    2. Mold and other Fungi
-      a. where and when to look for it
-      b. [IMAGES] identification
-    3. Bacteria
-      a. where and when to look for it
-      b. [IMAGES] identification
-    4. Viruses
-      a. where and when to look for it
-      b. how to recognize it
-  B. The 8 Causes of Contamination (RMyc, pgs 208-209)
+III. Contamination
+  A. The 8 Causes of Contamination (RMyc, pgs 208-209)
     1. The Cultivator
     2. The Air
     3. The Environment
@@ -91,8 +101,45 @@ IV. Contamination
     6. The Tools
     7. Pests
     8. Technique (the disciple of do easy)
-  C. Be a Contamophobe (EGCM, pg 48)
-III. Sanitation
+  B. On the cultivator's role
+    1. Learn to identify competitors
+    2. Isolate contaminated projects
+    3. Dispose of contaminated projects properly
+    4. Don't try to fight, it only makes it worse
+  C. Keep your friends close...
+    1. Healthy mycelium
+      a. where and when to look for it
+        i. all the time, hopefully
+      b. [IMAGES] identification (mycelium_1-3)
+      c. Know your target myc! (Laetiporus sulphureus image)
+  D. ...and your enemies closer
+    1. Mold and other Fungi
+      a. where and when to look for it
+        i. agar (especially Penicilium and Aspergillius spp)
+        ii. grain jars
+        iii. during fruiting
+        iv. all stages - mold is everywhere, stay attentive!
+      b. wispy, radial, changes from white to another color
+      c. [IMAGES] (aspergillius_*)
+    2. Bacteria & Yeast
+      a. where and when to look for it
+        i. agar
+        ii. grain jars (wet spots)
+        iii. fruiting (wet spots, discolorations)
+      b. form individual colonies
+      c. [IMAGES] identification (Brett, Bacillius)
+    3. Viruses
+      a. where and when to look for it
+      b. you can only see the results on fruits
+      c. not very common
+  E. How to deal
+    1. Rescue attempts
+      a. Transfer myc to a new plate
+      b. Cover the whole thing with hot agar
+      c. Wait it out
+    2. Make a few 'blanks' to identify weak spots in your process
+    3. Be a Contamophobe (EGCM, pg 48)
+IV. Sanitation
   A. 'Work Smarter, Not Harder'
     1. Sanitation is hard
     2. Find every trick you can to make it unnecessary
@@ -104,34 +151,54 @@ III. Sanitation
     2. The cultivator is best when s/he is simply a facilitator
       a. The mycelium knows what to do
       b. Setup the environment as best you can with minimal interference
-  C. Yin and Yang
-    1. Do what you must to find balance
-    2. Stop there - it's possible and easy to go too far
-V. Unknown Unknowns - What we're not covering
-  A. The little known poetry of Donald Rumsfeld
-  B. Gloveboxes - minimize contact
-    1. Why didn't we cover this? 
-    2. Why you might want to research it yourself
-  C. Liquid Cultures - more mushrooms faster
+V. Yin and Yang/Contamination and Sanitation
+    1. Don't be too accepting, don't get too aggressive
+    2. Strive to find a balance
+    3. Stop there - it's possible and easy to go too far
+VI. Unknown Unknowns - What we're not covering
+  A. Liquid Cultures - more mushrooms faster
     1. Why didn't we cover this?
       a. agar is more versitile
       b. easier to see the results
       c. possible to clean
-    2. Why you might want to research it yourself
-  D. Agar Plates - more contact vs. more room to experiment
+      d. better to learn the 'hard' way first
+    2. Why you might want to research it yourself (RMyc, pg 241-242)
+      a. cheap
+      b. fast and efficient - one good LC can last many months
+      c. no agar!
+      d. increases myceliation AND innoculation rates (3D vs 2D expansion)
+      e. reduces or eliminates the need for a still-air transfer space
+  B. Agar Plates - more contact vs. more room to experiment
     1. Why didn't we cover this?
+      a. more expensive
+      b. more work and higher contamination rates (leading to even more work)
+      c. more required equipment (still-air transfer space)
     2. Why you might want to research it yourself
-  E. Incubators - faster, stronger mycelium
+      a. plates can be really great to use when you get the process
+      b. easier to isolate strains
+      c. street cred
+  C. Gloveboxes - minimize contact
+    1. Why didn't we cover this? 
+      a. we're not using plates
+      b. the agar jars approximate a sterile environment
+    2. Why you might want to research it yourself
+      b. many teks require a still-air transfer space
+  D. Incubators
     1. Why didn't we cover this?
+      a. not enough time
+      b. easy to DIY, many plans available online
     2. Why you might want to research it yourself
+      a. Speed up!
+      b. Lower rates of contamination
 
 WORKSHOP:
 
 I. Simple Agar Recipes
-  A. ???
-  B. ???
+  A. ../agar_recipes/malt-yeast-extract
+  B. ../agar_recipes/potato-dextrose-yeast
 II. Preparing and Pouring Agar in theory
-  A. ???
+  A. combine ingrediants and heat
+  B. pour, cap, and cover lid with aluminium foil
 III [ACTIVITY] Preparing and Pouring Agar in practice
 II. Introduction to Spawn Jars
   A. What they are - explanation of the pieces
@@ -139,6 +206,6 @@ II. Introduction to Spawn Jars
     ii. the lid: SSIP & polyfil respiration hole
   B. Why we should use them
     i. a traveling mini-sterile zone
-    ii. 
-    iii. 
+    ii. minimize loss by splitting up spawn
+    iii. easy to innoculate
 III. [ACTIVITY] Build Spawn Jars
