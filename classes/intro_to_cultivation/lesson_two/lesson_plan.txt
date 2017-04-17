@@ -14,83 +14,74 @@ Goals for this this lesson:
   * Review last week's main points
   * The basics of working with agar
   * Understand nutritional requirements of mycelium
-  * A deeper look at 'Phase 1' of cultivation
+  * How to build an agar recipe
+  * Growing from spores vs growing from tissue
   * Contamination and Santitation
   * Unknown unknowns - gloveboxes, agar plates, etc...
   * How to prepare and pour agar
 
 I. Introduction
   A. Goals for this lesson
-    1-7. see above
+    1-8. see above
   B. Review
     1. Mushroom Life Cycle
     2. Fungal Needs
     3. Safe PC Usage
     4. Filter Jars
-II. Agar
+II. Working with Agar: The Basics
   A. What is Agar?
     1. Summary (RMyc, pg 229)
-  B. Working with Agar: The Basics
-    1. Why use Agar? (RMyc, pg 229)
-      a. Cleanup mushroom tissue
-      b. Isolate and develop individual mycelium strains
-      c. Facilitate the responses of mycelium to various other entities
-    2. Media Formulation
-      a. components
-        i. Carbon - dextrose, malt extract, potato water
-        ii. Proteins - cereal flour, peptone
-        iii. B Vitamins - yeast
-        iv. Minerals - gypsum
-        v. A taste of what's to come - 3-5% to stiumulate digestive enzymes
-      b. restricted ingrediants
-        i. coconut, garlic, pomegranate, cinnamon, cloves, curry, cilantro
-      c. the importance of a rotating menu
-    3. Preparing and Sterilizing Agar
-      a. pick a recipe
-      b. heat slowly just to the point of incorporation
-      c. be careful not to caramelize sugars - this is toxic to some fungi
-      a. sterilize @15psi for 30 minutes
-    4. Dealing with contamination (RMyc, pg 240)
-      a. agar facilitates growth - that's the point
-      b. contamination isn't a failure, it's part of the process
-      c. more on this later...
-  C. Nutritional requirements of mycelium (RMyc, pg 216-217)
-    1. Macronutrients
-      a. Carbon (C)
-        i. the 'energy source' for living organisms
-        ii. required for cellular energy and to build cellular structures
-        iii. decomposer fungi obtain much of their carbon from digesting plant matter
-      b. Nitrogen (N)
-        i. the backbone of enzyme (chemical catalyst) production
-        ii. the amount of available Nitrogen is a major limiting factor in cultivation
-        iii. more nitrogen is often added in the form of manure or wheat bran
-        iv. 1-2% of Nitrogen is about right for a substrate
-        v. fruiting requires more nitrogen than the mycelium's vegetative state
-      c. Oxygen (O)
-        i. mushrooms use Oxygen in numerous cellular processes
-    2. Micronutrients
-      a. Phosphorus (K)
-        i. used in the production of ATP, nucleic acids and cell membranes
-      b. Sulfer (S)
-        i. used to make amino acids
-        ii. can provided in the form of vitamins B1 or B7
-      c. Potassium (P)
-        i. critical to fungal metabolism
-        ii. influences the osmotic potential of hyphae (makes them more sneaky)
-      d. Magnesium (Mg)
-        i. influences the energy storage of ATP
-      e. Calcium (Ca)
-        i. regulate cell functions
-        ii. transport sugars and proteins across cell walls
-  D. A Deeper Look at Phase One
-    1. Starting point
-      a. when there is tissue to clone or spores to germinate
-    2. “The first step toward growing fruit bodies is to obtain a healthy and
-    competitor-free culture of mycelium” (RMyc, pg 228)
-    3. "Expanding the mass...is the primary goal" (EGCM, pg 18)
-    4. Options
-      b. spores, live mycelium, dry mushrooms
-      c. agar, liquid inoculum, cardboard
+  B. Why use Agar? (RMyc, pg 229)
+    1. Cleanup mushroom tissue
+    2. Facilitate the responses of mycelium to various other entities
+    3. Isolate and develop individual mycelium strains
+  C. A quick note on strain isolation
+    1. Cloning vs Strain Isolation
+    2. Strain Selection Traits (RMyc, pg 234)
+      a. recovery time from transfer
+      b. quality of mycelium
+      c. adaptability to substrates
+      d. time from inoculation to fruiting
+      e. duration between flushes
+      f. temperature and cold shock requirements
+      g. number of primordia that form/mature
+      h. medicinal quality
+      i. ability to degrade toxins
+      j. antimicrobial activity/resistence
+      k. appearance/flavor/texture
+      l. shelf life
+      m. etc
+  C. Media Formulation
+    1. components
+      a. Carbon - dextrose, malt extract, potato water
+      b. Proteins - cereal flour, peptone
+      c. B Vitamins - yeast
+      d. Minerals - gypsum
+      e. A taste of what's to come - 3-5% to stiumulate digestive enzymes
+    2. restricted ingrediants
+      a. coconut, garlic, pomegranate, cinnamon, cloves, curry, cilantro
+    3. the importance of a rotating menu
+  D. Preparing and Sterilizing Agar
+    1. pick a recipe
+    2. heat slowly just to the point of incorporation
+    3. be careful not to caramelize sugars - this is toxic to some fungi
+    4. sterilize @15psi for 30 minutes
+  E. Dealing with contamination (RMyc, pg 240)
+    1. agar facilitates growth - that's the point
+    3. contamination isn't a failure, it's part of the process
+    4. more on this later...
+  F. Spores or Tissue Cloning
+    1. Assuming agar to start the process, the main choice is spores or tissue?
+    2. Tissue - the preferred choice
+      a. known traits/ avoids randomizing effect of spores (non-fruting strains)
+      b. Found/foraged fruit bodies from an unusual substrate (toxic, novel, ..)
+      c. Preserving a given strain's genetics
+      d. faster
+    3. Spores - mycelial roulette
+      a. sometimes you want to play roulette - experimental strains for remediation
+      b. spores are the only availabe inoculum
+      c. apathy - you can't be asked to select for certain traits
+      d. the strain you've worked with is losing steam; it's time to start fresh
 III. Contamination
   A. The 8 Causes of Contamination (RMyc, pgs 208-209)
     1. The Cultivator
@@ -159,9 +150,10 @@ VI. Unknown Unknowns - What we're not covering
   A. Liquid Cultures - more mushrooms faster
     1. Why didn't we cover this?
       a. agar is more versitile
-      b. easier to see the results
-      c. possible to clean
-      d. better to learn the 'hard' way first
+      b. some techniques (like cultivating spores) are only available via agar
+      c. easier to see the results
+      d. possible to clean
+      e. better to learn the 'hard' way first
     2. Why you might want to research it yourself (RMyc, pg 241-242)
       a. cheap
       b. fast and efficient - one good LC can last many months
