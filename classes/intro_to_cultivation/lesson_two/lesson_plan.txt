@@ -3,6 +3,7 @@ Lesson Two
 Required equipment:
 
   * Materials to make Agar + solid recipe
+  * Gram scale
   * Hot plate/Heat source
   * Drill(s)
   * Example Spawn Jars
@@ -98,32 +99,22 @@ III. Contamination
     3. Dispose of contaminated projects properly
     4. Don't try to fight, it only makes it worse
   C. Keep your friends close...
-    1. Healthy mycelium
-      a. where and when to look for it
-        i. all the time, hopefully
-      b. [IMAGES] identification (mycelium_1-3)
-      c. Know your target myc! (Laetiporus sulphureus image)
-  D. ...and your enemies closer
-    1. Mold and other Fungi
-      a. where and when to look for it
-        i. agar (especially Penicilium and Aspergillius spp)
-        ii. grain jars
-        iii. during fruiting
-        iv. all stages - mold is everywhere, stay attentive!
-      b. wispy, radial, changes from white to another color
-      c. [IMAGES] (aspergillius_*)
-    2. Bacteria & Yeast
-      a. where and when to look for it
-        i. agar
-        ii. grain jars (wet spots)
-        iii. fruiting (wet spots, discolorations)
-      b. form individual colonies
-      c. [IMAGES] identification (Brett, Bacillius)
-    3. Viruses
-      a. where and when to look for it
+    1. Learn to Identify mycelium
+    2. Learn to identify various contaminants
+    3. This Takes Time!
+    4. Healthy mycelium
+      a. [IMAGES] identification (mycelium_1-3)
+      b. Know your target myc! (Laetiporus sulphureus image)
+    5. Mold and other Fungi
+      a. wispy, radial, changes from white to another color
+      b. [IMAGES] (aspergillius_*)
+    6. Bacteria & Yeast
+      a. form individual colonies
+      b. [IMAGES] identification (Brett, Bacillius)
+    7. Viruses
       b. you can only see the results on fruits
       c. not very common
-  E. How to deal
+  D. How to deal
     1. Rescue attempts
       a. Transfer myc to a new plate
       b. Cover the whole thing with hot agar
@@ -149,9 +140,9 @@ V. Yin and Yang/Contamination and Sanitation
 VI. Unknown Unknowns - What we're not covering
   A. Liquid Cultures - more mushrooms faster
     1. Why didn't we cover this?
-      a. agar is more versitile
+      a. agar is more versatile
       b. some techniques (like cultivating spores) are only available via agar
-      c. easier to see the results
+      c. easier to see/verify results
       d. possible to clean
       e. better to learn the 'hard' way first
     2. Why you might want to research it yourself (RMyc, pg 241-242)
@@ -174,14 +165,15 @@ VI. Unknown Unknowns - What we're not covering
       a. we're not using plates
       b. the agar jars approximate a sterile environment
     2. Why you might want to research it yourself
-      b. many teks require a still-air transfer space
+      a. many teks require a still-air transfer space
+      b. if you're having trouble with contamination, this will help a lot
   D. Incubators
     1. Why didn't we cover this?
       a. not enough time
       b. easy to DIY, many plans available online
     2. Why you might want to research it yourself
       a. Speed up!
-      b. Lower rates of contamination
+      b. Lower rates of contamination / fail faster
 
 WORKSHOP:
 
