@@ -1,0 +1,79 @@
+Lesson Three
+
+Required equipment:
+
+  * Sterilized agar jars, syringes, water jars
+  * Enough hydrated popcorn for (students*3) 900ml jars
+  * Mushrooms to clone + backup clean mycelium samples
+
+Required preperation:
+
+  * PC agar jars from last week
+  * PC syringes, needles and several water jars
+  * Soak/Prepare popcorn
+
+Goals for this this lesson:
+
+  * Review last week's main points
+  * Cloning mushroom tissue using filter jars in theory
+  * Spawn options and preparations
+  * Unknown Unknowns - cardboard spawn
+  * Cloning mushroom tissue using filter jars in theory
+  * Loading jars with prepared popcorn / paper
+
+I. Introduction
+  A. Goals for this lesson
+  B. Review
+    1. Why use Agar?
+      a. cleanup mushroom tissue
+      b. train mycelium to digest new chemicals
+      c. isolate and develop strains
+    2. Difference between cloning and strain isolation?
+    3. What are the main components of nutritious agar?
+      a. carbon, proteins, b vitamins, minerals, 6-10% of what's to come
+    4. The most likely cause of contamination is the cultivator
+    5. What does [mycelium, mold, bacteria] look like?
+    6. What is the difference between Pastuerization and Sterilization?
+II. Cloning mushroom tissue using filter jars in theory
+  A. Necessary materials and equipment
+    1. 1 agar jar
+    2. 1 filter jar 3/4 full of water
+    3. 1 fresh mushroom (the fresher the better)
+    4. 1 syringe/luer-lock needle
+    5. 70% alcohol and paper towel
+    6. aluminium foil
+    7. labels and a pen
+    8. optionally, 3% h202
+  B. Process
+    1. Sterilize equipment
+      a. wrap the syringe and needle in foil, cover the jar lids with foil
+      b. PC at 15psi for 15-20 minutes and allow to cool
+    2. Draw up some sterile water
+      a. unwrap the sterile water jar and syringe
+      b. gently wipe the silicone injection port with alcohol
+      c. upcap the needle and wipe with alcohol
+      d. quickly insert the needle and draw up 3-5mL of sterile water
+    3. Preform tissue biopsy - this should be preformed smoothly and quickly
+      a. wipe the mushroom stem or cap with alcohol
+      b. wipe the needle with alcohol and quickly insert it into the tissue
+      c. remove the needle and quickly check to see if tissue is present
+      d. optionally, dip the needle into a jar of h202 for 5-10 seconds
+      e. wipe the silicone port of the agar jar with alcohol
+      f. insert the needle and gently press until the tissue is ejected
+      g. label and date the jar and incubate/store
+      h. repeat, using multiple jars/tissue samples to ensure a clean sample
+III. Spawn options and preparation
+IV. Unknown unknowns
+
+* cloning fresh mushrooms to agar: RMyc p 236
+* cloning to liquid media (or agar): Rmyc p 243
+* grain spawn overview: RMyc pp 247-252
+* preparing and incoculating grain: EGCM pp 107 - 115
+* preparing various spawn mediums: EGCM pp 116-125
+* what is spawn and why use it? MCIV p 32
+* practical aspects of spawn production: MCIV 105-129
+* cardboard spawn: RMyc p 239, MycRunning p 137/ 142-147
+
+WORKSHOP:
+
+I.
