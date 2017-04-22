@@ -8,14 +8,14 @@ Introduction to Mycology: 4 Week Syllabus
     Project     [01:00] Prepare and Pour Agar, Build Spawn Jars
     Hub Skills          Sterile Procedures, Nutrition, Agar Jars, Spawn Jars
 
-3.  Theory      [01:00] Cloning, Understanding and Using Filter Jars,
-                        Spawn Options and Preparation
-    Project     [01:00] Innoculate Agar with Tissue Sample, Popcorn/Grain 
+3.  Theory      [01:00] Cloning, Spawn Options and Preparation
+    Project     [01:00] Innoculate Agar with Tissue Sample, Popcorn/Grain
                         Spawn Preparation
     Hub Skills          Agar Jars, Spawn Jars, PC Use, Tissue Cloning
     Prep Required       PC Agar Jars, Soak/Prepare Popcorn
 
-4.  Theory      [01:30] Spawn Options and Pros/Cons, Living Mycelium, What Next? + Q&A
+4.  Theory      [01:30] Substrate Options and Pros/Cons, Living Mycelium,
+                        What Next? + Q&A
     Project     [00:30] Inoculate Spawn Jars with Myc Slurry
     Hub Skills          Sterile Procedures, Spawn Jars, Agar Jars
 
