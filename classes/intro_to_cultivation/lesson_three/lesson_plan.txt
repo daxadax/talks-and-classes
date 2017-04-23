@@ -17,7 +17,7 @@ Goals for this this lesson:
   * Review last week's main points
   * Cloning mushroom tissue using filter jars in theory
   * Spawn options and preparations
-  * Unknown Unknowns - cardboard spawn
+  * Unknown Unknowns - non-grain spawn (cardboard, ...?)
   * Cloning mushroom tissue using filter jars in theory
   * Loading jars with prepared popcorn / paper
 
@@ -63,6 +63,40 @@ II. Cloning mushroom tissue using filter jars in theory
       g. label and date the jar and incubate/store
       h. repeat, using multiple jars/tissue samples to ensure a clean sample
 III. Spawn options and preparation
+  A. What is spawn and why use it? (MC IV)
+  B. Grain Spawn
+    1. The Big Four
+      a. rye
+      b. millet
+      c. wild birdseed
+      d. popcorn
+    2. Considerations in choosing which grain to use
+      a. there is no 'best grain' for mushroom cultivation
+      b. local availability and cost
+      c. ease of preparation
+      d. surface area and spawn vs substrate colonization times
+      e. hydration: the goal is 45-60% moisture by weight
+    3. Rye/Rye Berries
+      a. local availability - can be difficult to find and/or expensive
+      b. ease of preparation - average, can be difficult to get hydration right
+      c. surface area - balanced
+    4. Rye/Rye Berries preparation
+    5. Wild Birdseed/Millet
+      a. local availability - usually easy to find
+      b. ease of preparation - average, need to shake jars after PC run
+      c. high surface area, slower spawn run, faster substrate colonization
+    6. Wild Birdseed/Millet preparation
+    7. Popcorn
+      a. local availability - very easy to find in small or large amounts
+      b. ease of preparation - very easy
+      c. low surface area, fast spawn run, slower substrate colonization
+      d. some people really dislike the smell during hydration
+    8. Popcorn preparation
+  C. Moisture content calculation
+    1. Hydrate material and weigh a good handful - wet weight
+    2. Place that same material in the oven and dry at the lowest setting
+    3. Weigh this again - this is the dry weight
+    4. Moisture content = wet weight / ( wet weight + dry weight )
 IV. Unknown unknowns
 
 * cloning fresh mushrooms to agar: RMyc p 236
