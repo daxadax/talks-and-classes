@@ -4,9 +4,9 @@ Required equipment:
 
   * Sterilized agar jars, syringes, water jars
   * Enough hydrated popcorn for (students*3) 900ml jars
-  * Mushrooms to clone + backup clean mycelium samples
+  * Mushrooms to clone
 
-Required preperation:
+Required preparation:
 
   * PC agar jars from last week
   * PC syringes, needles and several water jars
@@ -17,12 +17,17 @@ Goals for this this lesson:
   * Review last week's main points
   * Cloning mushroom tissue using filter jars in theory
   * Spawn options and preparations
-  * Unknown Unknowns - non-grain spawn (cardboard, ...?)
   * Cloning mushroom tissue using filter jars in theory
   * Loading jars with prepared popcorn / paper
 
 I. Introduction
   A. Goals for this lesson
+    1. Review last week's main points
+    2. Cloning mushroom tissue using filter jars in theory
+    3. Spawn options and preparations
+    4. Unknown Unknowns - non-grain spawn (cardboard, ...?)
+    5. Cloning mushroom tissue using filter jars in theory
+    6. Loading jars with prepared popcorn / paper
   B. Review
     1. Why use Agar?
       a. cleanup mushroom tissue
@@ -33,8 +38,9 @@ I. Introduction
       a. carbon, proteins, b vitamins, minerals, 6-10% of what's to come
     4. The most likely cause of contamination is the cultivator
     5. What does [mycelium, mold, bacteria] look like?
-    6. What is the difference between Pastuerization and Sterilization?
+    6. What is the difference between Pasteurization and Sterilization?
 II. Cloning mushroom tissue using filter jars in theory
+  A. Caveat - this is not *the* way, it is *one* way
   A. Necessary materials and equipment
     1. 1 agar jar
     2. 1 filter jar 3/4 full of water
@@ -47,13 +53,13 @@ II. Cloning mushroom tissue using filter jars in theory
   B. Process
     1. Sterilize equipment
       a. wrap the syringe and needle in foil, cover the jar lids with foil
-      b. PC at 15psi for 15-20 minutes and allow to cool
+      b. PC needles and water jar at 15psi for 15-20 minutes and allow to cool
     2. Draw up some sterile water
       a. unwrap the sterile water jar and syringe
       b. gently wipe the silicone injection port with alcohol
       c. upcap the needle and wipe with alcohol
       d. quickly insert the needle and draw up 3-5mL of sterile water
-    3. Preform tissue biopsy - this should be preformed smoothly and quickly
+    3. Perform tissue biopsy - this should be preformed smoothly and quickly
       a. wipe the mushroom stem or cap with alcohol
       b. wipe the needle with alcohol and quickly insert it into the tissue
       c. remove the needle and quickly check to see if tissue is present
@@ -64,8 +70,27 @@ II. Cloning mushroom tissue using filter jars in theory
       h. repeat, using multiple jars/tissue samples to ensure a clean sample
 III. Spawn options and preparation
   A. What is spawn and why use it? (MC IV)
-  B. Grain Spawn
-    1. The Big Four
+    1. Spawn is a starter culture for a given strain
+    2. "Many alternatives exist, the object always being to obtain vigorously
+    growing mycelium of the desired mushroom without any contaminants." (MCIV,
+    pg 33)
+  B. Produce spawn or buy it?
+    1. "If a reliable source of spawn at reasonable prices can be found, then
+    the potential mushroom grower should concentrate on other aspects of
+    mushroom cultivation than spawn production." (MCIV pp 33-34)
+    2. Once again, it depends.
+      a. do you care about fruit?  (art or materials applications)
+      b. what's your time worth?
+      c. is it possible to buy the spawn you want?
+    3. Extract vs all-grain brewing comparison
+    4. This is an attitude thing
+      a. you're no less a mushroom cultivator (or brewer) for choosing to focus
+      on a certain part of the process.
+      b. you're no better a mushroom grower for doing it all
+      c. use this feeling as a compass and re-orient yourself on occasion
+      d. prioritize results and enjoy what you're doing
+  C. Common grain spawn options (EGCM)
+    1. The big four
       a. rye
       b. millet
       c. wild birdseed
@@ -80,34 +105,53 @@ III. Spawn options and preparation
       a. local availability - can be difficult to find and/or expensive
       b. ease of preparation - average, can be difficult to get hydration right
       c. surface area - balanced
-    4. Rye/Rye Berries preparation
     5. Wild Birdseed/Millet
       a. local availability - usually easy to find
       b. ease of preparation - average, need to shake jars after PC run
       c. high surface area, slower spawn run, faster substrate colonization
-    6. Wild Birdseed/Millet preparation
     7. Popcorn
       a. local availability - very easy to find in small or large amounts
       b. ease of preparation - very easy
       c. low surface area, fast spawn run, slower substrate colonization
       d. some people really dislike the smell during hydration
-    8. Popcorn preparation
-  C. Moisture content calculation
+  D. Grain Preparation
+    1. The goal - goldilocks zone
+      a. not too hard (al dente) - fully saturated and not hard in the center
+      b. not too soft - overcooked, burst and overly wet grain are prone to
+      contamination
+      c. easy to break up - pre-rinse grains and add a bit of gypsum
+    2. Necessary materials and supplies
+      a. large pot or pressure cooker
+      b. grains - (jars capacity * number of jars * 0.6) / 4
+        i. 0.6 is the 'fill constant' - how much you want to fill the jars
+        ii. 4 can be the 'expansion constant' for popcorn, but this depends very
+        much on the grain used
+      c. colander/strainer
+      d. aluminium foil
+      e. optionally, coffee/grounds/diluted coffee (lots of debate here)
+      f. optionally, gypsum and/or hydrated lime
+    3. Process (RMyc, pp 247-248)
+      a. add grains to a pot and wash grains (similar to washing rice)
+      b. wash grains until the water runs clear (save this for the garden)
+      c. cover the grains with water (and optionally 50% diluted coffee)
+      d. cover the pot and sit for 16-24 hours. +/- 4 hours won't hurt
+      e. after soaking, boil the grains for 5-10 minutes or until they have the
+      right consistency
+      f. drain the grains and save the water for agar production or gardening
+      g. toss the hot grains and ideally spread them out to cool and drain
+      h. optionally add 1 tbls gypsum and/or 1 tsp hydrated lime
+      i. fill jars 1/2 - 2/3 full with the grains
+      j. seal each jar with a filter lid and cover with aluminium foil
+      k. PC @15psi for 75-90 minutes and cool
+      l. inspect each jar for cracks and shake to prevent the grains from
+      sticking together
+  E. Moisture content calculation (EGCM, pg 112)
     1. Hydrate material and weigh a good handful - wet weight
     2. Place that same material in the oven and dry at the lowest setting
     3. Weigh this again - this is the dry weight
     4. Moisture content = wet weight / ( wet weight + dry weight )
-IV. Unknown unknowns
-
-* cloning fresh mushrooms to agar: RMyc p 236
-* cloning to liquid media (or agar): Rmyc p 243
-* grain spawn overview: RMyc pp 247-252
-* preparing and incoculating grain: EGCM pp 107 - 115
-* preparing various spawn mediums: EGCM pp 116-125
-* what is spawn and why use it? MCIV p 32
-* practical aspects of spawn production: MCIV 105-129
-* cardboard spawn: RMyc p 239, MycRunning p 137/ 142-147
 
 WORKSHOP:
 
-I.
+I. Clone mushroom tissue using process above
+II. Load popcorn/spawn material into jars and cap with foil
