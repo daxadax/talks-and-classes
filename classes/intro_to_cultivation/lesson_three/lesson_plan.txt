@@ -17,8 +17,8 @@ Goals for this this lesson:
   * Review last week's main points
   * Cloning mushroom tissue using filter jars in theory
   * Spawn options and preparations
-  * Cloning mushroom tissue using filter jars in theory
-  * Loading jars with prepared popcorn / paper
+  * Cloning mushroom tissue using filter jars in practice
+  * Loading jars with hydrated popcorn / paper
 
 I. Introduction
   A. Goals for this lesson
@@ -42,7 +42,7 @@ I. Introduction
 II. Cloning mushroom tissue using filter jars in theory
   A. Caveat - this is not *the* way, it is *one* way
   A. Necessary materials and equipment
-    1. 1 agar jar
+    1. 1 agar jar (ideally several)
     2. 1 filter jar 3/4 full of water
     3. 1 fresh mushroom (the fresher the better)
     4. 1 syringe/luer-lock needle
