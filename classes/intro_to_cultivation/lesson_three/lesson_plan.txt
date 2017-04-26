@@ -68,7 +68,7 @@ II. Cloning mushroom tissue using filter jars in theory
       f. insert the needle and gently press until the tissue is ejected
       g. label and date the jar and incubate/store
       h. repeat, using multiple jars/tissue samples to ensure a clean sample
-III. Spawn options and preparation
+III. All About Spawn
   A. What is spawn and why use it? (MC IV)
     1. Spawn is a starter culture for a given strain
     2. "Many alternatives exist, the object always being to obtain vigorously
@@ -89,7 +89,7 @@ III. Spawn options and preparation
       b. you're no better a mushroom grower for doing it all
       c. use this feeling as a compass and re-orient yourself on occasion
       d. prioritize results and enjoy what you're doing
-  C. Common grain spawn options (EGCM)
+  C. Common grain spawn options and preparation (EGCM)
     1. The big four
       a. rye
       b. millet
@@ -99,27 +99,32 @@ III. Spawn options and preparation
       a. there is no 'best grain' for mushroom cultivation
       b. local availability and cost
       c. ease of preparation
-      d. surface area and spawn vs substrate colonization times
+      d. surface area / spawn vs substrate colonization times
       e. hydration: the goal is 45-60% moisture by weight
     3. Rye/Rye Berries
       a. local availability - can be difficult to find and/or expensive
       b. ease of preparation - average, can be difficult to get hydration right
       c. surface area - balanced
-    5. Wild Birdseed/Millet
+    4. Wild Birdseed/Millet
       a. local availability - usually easy to find
       b. ease of preparation - average, need to shake jars after PC run
       c. high surface area, slower spawn run, faster substrate colonization
-    7. Popcorn
+    5. Popcorn
       a. local availability - very easy to find in small or large amounts
       b. ease of preparation - very easy
       c. low surface area, fast spawn run, slower substrate colonization
       d. some people really dislike the smell during hydration
   D. Grain Preparation
     1. The goal - goldilocks zone
-      a. not too hard (al dente) - fully saturated and not hard in the center
-      b. not too soft - overcooked, burst and overly wet grain are prone to
-      contamination
-      c. easy to break up - pre-rinse grains and add a bit of gypsum
+      a. not too hard / not too soft
+        i. al dente
+        ii. fully saturated
+        iii. not hard in the center
+        iv. not overcooked, burst or overly wet
+          - this makes the grain are more prone to contamination
+      b. easy to break up
+        i. pre-rinse grains
+        ii. add a bit of gypsum
     2. Necessary materials and supplies
       a. large pot or pressure cooker
       b. grains - (jars capacity * number of jars * 0.6) / 4
@@ -150,6 +155,11 @@ III. Spawn options and preparation
     2. Place that same material in the oven and dry at the lowest setting
     3. Weigh this again - this is the dry weight
     4. Moisture content = wet weight / ( wet weight + dry weight )
+    5. Why should you care?
+      a. I used this to figure out the right moisture content for paper waste
+        i 1.34 water to paper
+      b. knowing this makes the pastuerization process much easier
+      c. 'Integral Systems, Paper Waste and Mycelium' on Medium
 
 WORKSHOP:
 
