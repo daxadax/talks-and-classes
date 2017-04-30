@@ -2,12 +2,12 @@ Lesson Four:
 
 Required equipment:
 
-  * Sterilized spawn jars, syringes, water jars
+  * Sterilized spawn jars, syringes and water jars
   * Colonized agar jars
 
 Required preperation:
 
-  * PC syringes, needles, water jars and spawn jars
+  * PC spawn jars, syringes, needles and water jars
 
 Goals for this this lesson:
 
@@ -16,12 +16,29 @@ Goals for this this lesson:
   * Bare metal requirements for fruiting by species
   * List of resources and recommended reading
   * Final review of relevant course material
+  * Questions about the course and what comes next
   * Transfer mycelium to spawn jars
 
 I. Introduction
   A. Goals for this lesson
   B. Review
-II.
+    1. Cloning Tissue - walkthrough of the steps
+      a. Sterilize equipment
+      b. Draw up sterile water
+      c. Perform tissue biopsy
+    2. What were the biggest challenges of tissue cloning?
+    3. Why use grain spawn?
+    4. 4 most common grains to use for spawn
+      a. rye, millet, bird seed, popcorn
+    5. Hydration - what is it and why is it necessary?
+      a. softens the grain so the mycelium can penetrate
+      b. provides water to the mycelium
+      c. wakes up endospores so they can be killed
+II. All about Substrate
+III. Requirements by Species
+IV. Resources
+V. Wrap-up
+VI. Questions
 
 
 * All about substrate: MCIV pp 19-25
@@ -31,3 +48,18 @@ II.
 WORKSHOP:
 
 I.
+
+
+resources
+
+sites:
+mushroom growers sub
+shroomery
+
+materials:
+pilz straw ebay
+
+books:
+essential guide to cultivating mushrooms
+radical mycology
+mycelium running
