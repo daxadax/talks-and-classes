@@ -13,16 +13,17 @@ Goals for this this lesson:
 
   * Review last week's main points
   * Discuss substrate function and options by species
-  * Basic requirements by species
-  * Fruiting in a bag - simple method for most species
-  * PF Tek
-  * List of resources and recommended reading
+  * Evironmental requirements by species
+  * Outline a simple fruiting method
+  * Discuss the PF Tek
+  * List resources - sites, shops and books
+  * Answer any lingering questions
   * Transfer mycelium to spawn jars
 
 I. Introduction
   A. Goals for this lesson
   B. Review
-    1. Cloning Tissue - walkthrough of the steps
+    1. Tissue cloning - walkthrough of the steps
       a. Sterilize equipment
       b. Draw up sterile water
       c. Perform tissue biopsy
@@ -48,58 +49,68 @@ II. All about Substrate
     less suitable it is for other species, the more *selective* it is.
     2. Some fungi can use a broad range of substrate (Oysters)
     3. Some fungi can use only certain narrowly defined materials (Shiitake)
+    4. Selectivity parameters depend primarily on species
     4. Selectivity depends on:
-      a. species - all of these parameters are dependent on species
-      b. available nutrients
+      a. available nutrients
         i. the more accessible nutrients are available, the higher the yield
         ii. the more accessible nutrients are available, the higher the risk of
         contamination
-      c. compactness
+      b. compactness
         i. too loose and the mycelium requires a lot of energy to expand
         ii. too tight and the mycelium can't breath
-      d. water content and activity
+      c. water content and activity
         i. too much water clogs air flow
         ii. too little water provides...too little water
         iii. the squeeze test - like an old man peeing
           - you should get a few drops from normal pressure
-      e. pH level
+      d. pH level
         i. Neutral is 7, lower is acidic, higher is basic
         ii. most cultivated mushrooms prefer a slightly acidic environment
         iii. low pH can also be an indication of bacterial infection
         iv. chalk and gypsum are the most common ways to stabilize pH
-      g. environment - humidity, fresh air, light & temperature
-III. Requirements by Species
-  A. I prefer the Shroomery for this: "<Species genus> shroomery"
-  B. Most species benefit from a cold shock to begin fruiting
-  C. Flammulina velutipes (Enoki)
+      e. environment - humidity, fresh air, light & temperature
+III. Environmental Requirements by Species
+  A. General information
+    i. Search by the Latin name <Species genus> (Mushroms Demystified)
+    ii. The Shroomery has good info for most common species
+    iii. Most species benefit from a cold shock to begin fruiting
+  B. Flammulina velutipes (Enoki)
     i. spawn run 22-26
     ii. fruiting 3-15
     iii. sterilized hardwood/paper
-  D. Hericium erinaceus (Lion's Mane)
+  C. Hericium erinaceus (Lion's Mane)
     i. spawn run 25
     ii. fruiting 15-25/20-28 (depends on strain)
     iii. sterilized supplemented sawdust
-  E. Hypsizygus tessulatus (Shimeji)
+    iv. stimulates nerve growth and is being researched for treating
+    degenerative mental diseases and nerve damage
+  D. Hypsizygus tessulatus (Shimeji)
     i. spawn run 21-24
     ii. fruiting 13-18
     iii. sterilized suplimented sawdust
-  F. Lentinula edodes (Shiitake)
+  E. Lentinula edodes (Shiitake)
     i. spawn run 20-30
     ii. fruiting 8-24 (depends on strain)
     iii. sterilized supplemented sawdust + wood chips (depends on strain)
-  G. Pleurotus eryngii (King Oyster)
+    iv. when grown under normal conditions and dried in the sun with gills
+    facing up, shiitakes can produce up to 46,000 IU of Vitamin per 100 grams.
+    The FDA recommends ~400 grams/day (Mycelium Running, pg 206)
+  F. Pleurotus eryngii (King Oyster)
     i. spawn run 20-25
     ii. fruiting 15-22
     iii. hardwood sawdust and/or supplemented wheat straw
+    iv. If you cut the stem in thick wheels and pan fry them with butter and
+    white wine, they taste remarkably similar to sea scallops
   G. Pleurotus ostreatus (Oyster)
     i. spawn run 20-25
     ii. fruiting 5-25
     iii. like, everything. straw, paper, coffee, sawdust, wood chips, soybean
     waste, agave waste, palm-oil by-products, etc
-  I. Psilocybe cubensis (the 'magic' mushroom)
+  H. Psilocybe cubensis (the 'magic' mushroom)
     i. spawn run 27-30
     ii. fruiting 22-24
     iii. pastuerized cow or horse manure, coconut coir, straw, etc
+    iv. Terence McKenna.
 IV. Fruiting
   A. Caveat
     i. this is very, very basic - research online!
@@ -120,15 +131,19 @@ IV. Fruiting
     vi. when the bag is fully colonized, make some openings (top or sides)
     vii. consider building a shotgun fruiting chamber - humidity and fae
 V. PF Tek
-  A. Why use this tek?
+  A. What is it?
+    i. created in 1992 by Psylocybe Fanaticus
+    ii. the 'classic' low-tech way to grow magic mushrooms
+    iii. it works for many/most mushroom species
+  B. Why use this tek?
     i. Fast, easy and nearly fool-proof
     ii. Good for getting the feel of the cultivation cycle as a beginner
     iii. Great for making small batches and/or for experimentation
-  B. The Technique
+  C. The Technique
     i. see the resources section for the full tutorial
     ii. prepare the substrate (vermiculite, brown rice flour and water)
     iii. fill small, straight-walled jars with the substrate and PC
-    iv. innoculate the substrate with mycelium or a spore syringe
+    iv. inoculate the substrate with mycelium or a spore syringe
     v. after full colonization, 'birth' the jars into a fruiting chamber
     vi. mist and fan as necessary and wait for fruits
 VI. Resources
