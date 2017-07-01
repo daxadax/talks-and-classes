@@ -2,26 +2,169 @@ Lesson Four:
 
 Required equipment:
 
-  *
+  * Sterilized spawn jars, syringes and water jars
+  * Colonized agar jars
 
 Required preperation:
 
-  *
+  * PC spawn jars, syringes, needles and water jars
 
 Goals for this this lesson:
 
   * Review last week's main points
+  * Discuss substrate function and options by species
+  * Evironmental requirements by species
+  * Outline a simple fruiting method
+  * Discuss the PF Tek
+  * List resources - sites, shops and books
+  * Answer any lingering questions
+  * Transfer mycelium to spawn jars
 
 I. Introduction
   A. Goals for this lesson
   B. Review
-II.
+    1. Tissue cloning - walkthrough of the steps
+      a. Sterilize equipment
+      b. Draw up sterile water
+      c. Perform tissue biopsy
+    2. What were the biggest challenges of tissue cloning?
+    3. Why use grain spawn?
+    4. 4 most common grains to use for spawn
+      a. rye, millet, bird seed, popcorn
+    5. Hydration - what is it and why is it necessary?
+      a. softens the grain so the mycelium can penetrate
+      b. provides water to the mycelium
+      c. wakes up endospores so they can be killed
+II. All about Substrate
+  A. What is Substrate? (MC IV, pg 19)
+    1. The material on which mycelium grows
+    2. A substrates properties determine which fungi and microbes can grow in it
+    3. The environment also plays a role
+      a. Relative humidity
+      b. Ventilation / FAE
+      c. Light levels
+      d. temperature
+  B. Substrate Selectivity (MC IV, pp 19-22)
+    1. The better the substrate meets the demands of a specific species and the
+    less suitable it is for other species, the more *selective* it is.
+    2. Some fungi can use a broad range of substrate (Oysters)
+    3. Some fungi can use only certain narrowly defined materials (Shiitake)
+    4. Selectivity parameters depend primarily on species
+    4. Selectivity depends on:
+      a. available nutrients
+        i. the more accessible nutrients are available, the higher the yield
+        ii. the more accessible nutrients are available, the higher the risk of
+        contamination
+      b. compactness
+        i. too loose and the mycelium requires a lot of energy to expand
+        ii. too tight and the mycelium can't breath
+      c. water content and activity
+        i. too much water clogs air flow
+        ii. too little water provides...too little water
+        iii. the squeeze test - like an old man peeing
+          - you should get a few drops from normal pressure
+      d. pH level
+        i. Neutral is 7, lower is acidic, higher is basic
+        ii. most cultivated mushrooms prefer a slightly acidic environment
+        iii. low pH can also be an indication of bacterial infection
+        iv. chalk and gypsum are the most common ways to stabilize pH
+      e. environment - humidity, fresh air, light & temperature
+III. Environmental Requirements by Species
+  A. General information
+    i. Search by the Latin name <Species genus> (Mushroms Demystified)
+    ii. The Shroomery has good info for most common species
+    iii. Most species benefit from a cold shock to begin fruiting
+  B. Flammulina velutipes (Enoki)
+    i. spawn run 22-26
+    ii. fruiting 3-15
+    iii. sterilized hardwood/paper
+  C. Hericium erinaceus (Lion's Mane)
+    i. spawn run 25
+    ii. fruiting 15-25/20-28 (depends on strain)
+    iii. sterilized supplemented sawdust
+    iv. stimulates nerve growth and is being researched for treating
+    degenerative mental diseases and nerve damage
+  D. Hypsizygus tessulatus (Shimeji)
+    i. spawn run 21-24
+    ii. fruiting 13-18
+    iii. sterilized suplimented sawdust
+  E. Lentinula edodes (Shiitake)
+    i. spawn run 20-30
+    ii. fruiting 8-24 (depends on strain)
+    iii. sterilized supplemented sawdust + wood chips (depends on strain)
+    iv. when grown under normal conditions and dried in the sun with gills
+    facing up, shiitakes can produce up to 46,000 IU of Vitamin per 100 grams.
+    The FDA recommends ~400 grams/day (Mycelium Running, pg 206)
+  F. Pleurotus eryngii (King Oyster)
+    i. spawn run 20-25
+    ii. fruiting 15-22
+    iii. hardwood sawdust and/or supplemented wheat straw
+    iv. If you cut the stem in thick wheels and pan fry them with butter and
+    white wine, they taste remarkably similar to sea scallops
+  G. Pleurotus ostreatus (Oyster)
+    i. spawn run 20-25
+    ii. fruiting 5-25
+    iii. like, everything. straw, paper, coffee, sawdust, wood chips, soybean
+    waste, agave waste, palm-oil by-products, etc
+  H. Psilocybe cubensis (the 'magic' mushroom)
+    i. spawn run 27-30
+    ii. fruiting 22-24
+    iii. pastuerized cow or horse manure, coconut coir, straw, etc
+    iv. Terence McKenna.
+IV. Fruiting
+  A. Caveat
+    i. this is very, very basic - research online!
+  B. Materials
+    i. clean plastic bags
+    ii. pasteurized substrate (coffee, straw, etc - depends on the species)
+    iii. clean spawn
+    iv. rubberband
+    v. a large bowl or container for mixing
+    vi. rubbing alcohol (70%)
+    vii. optionally, polyfil and toilet paper tube
+  C. Process
+    i. wash your hands and wipe them with alcohol
+    ii. wash the bowl and wipe it with alcohol
+    iii. combine the substrate and spawn and mix together (consider ratio)
+    iv. load into bags with a toilet paper tube at the top
+    v. wrap a rubberband around the toilet paper tube and stuff with polyfil
+    vi. when the bag is fully colonized, make some openings (top or sides)
+    vii. consider building a shotgun fruiting chamber - humidity and fae
+V. PF Tek
+  A. What is it?
+    i. created in 1992 by Psylocybe Fanaticus
+    ii. the 'classic' low-tech way to grow magic mushrooms
+    iii. it works for many/most mushroom species
+  B. Why use this tek?
+    i. Fast, easy and nearly fool-proof
+    ii. Good for getting the feel of the cultivation cycle as a beginner
+    iii. Great for making small batches and/or for experimentation
+  C. The Technique
+    i. see the resources section for the full tutorial
+    ii. prepare the substrate (vermiculite, brown rice flour and water)
+    iii. fill small, straight-walled jars with the substrate and PC
+    iv. inoculate the substrate with mycelium or a spore syringe
+    v. after full colonization, 'birth' the jars into a fruiting chamber
+    vi. mist and fan as necessary and wait for fruits
+VI. Resources
+  A. Sites
+    i. www.shroomery.org
+      - www.shroomery.org/13864/General-Cultivation-updated-2017
+      - www.shroomery.org/forums/
+    ii. www.reddit.com/r/mushroomgrowers
+    iii. www.reddit.com/r/mycology
+    iv. www.fungifun.org/English/Pftek
+  B. Materials
+    i. www.pilzzuchtshop.eu/pilzzuchtbedarf/
+    ii. www.flaschenbauer.de
+  C. Books
+    i. *Essential Guide to Cultivating Mushrooms* - Stephen Russel
+    ii. *Radical Mycology* - Peter McCoy
+    iii. *Mycelium Running* - Paul Stamets
+    iv. *Growing Gourmet and Medicinal Mushrooms* - Paul Stamets
+    v. *Mushrooms Demystified* - David Arora
 
-
-* All about substrate: MCIV pp 19-25
-* temperature range and options by species: MCIV p 27
-* suitable bulk substrate materials by species: MCIV pp 28-29
 
 WORKSHOP:
 
-I.
+I. Transfer mycelium from agar jars to spawn jars (if ready)
